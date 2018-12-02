@@ -1,2 +1,1 @@
->>>>>>> master
 print("Hello C")
